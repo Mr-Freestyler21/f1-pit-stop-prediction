@@ -57,7 +57,7 @@ source .venv/bin/activate     # Mac/Linux
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost jupyter
 ```
 
-Open `f1_final.ipynb` in VS Code or Jupyter and run all cells.  
+Open `f1.ipynb` in VS Code or Jupyter and run all cells.  
 The dataset `f1_strategy_dataset_v2.csv` must be in the same directory as the notebook.
 
 ---
