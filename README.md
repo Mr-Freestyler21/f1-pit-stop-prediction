@@ -47,7 +47,7 @@ The gap between those two numbers is the project.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/f1-pit-stop-prediction.git
+git clone https://github.com/Mr-Freestyler21/f1-pit-stop-prediction.git
 cd f1-pit-stop-prediction
 
 python -m venv .venv
